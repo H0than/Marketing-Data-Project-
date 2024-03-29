@@ -1,4 +1,4 @@
-# Marketing Data Project 
+## Marketing Data Project 
 
 # Project Overview:
 This project focuses on automating the weekly marketing data using Python.
@@ -30,3 +30,8 @@ The modified DataFrame was saved to a new CSV file to ensure that the changes ar
 The automation of weekly marketing data using Python has significantly improved efficiency and accuracy in handling marketing data. 
 By automating tasks such as column renaming, metric calculation, and data saving, the project has streamlined the process and reduced manual effort.
 
+# Project Files:
+
+Marketing Data Project.ipynb: This Jupyter Notebook contains the Python code used to automate the marketing data.
+Modified_Marketing_Campaign_Data_py.csv: This CSV file contains the modified marketing data after performing various data manipulation tasks.
+marketing_campaign_data_py.csv: This CSV file contains the marketing data before data cleaning. 
